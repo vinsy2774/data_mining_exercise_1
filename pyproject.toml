@@ -1,0 +1,11 @@
+[project]
+name = "data-mining-exercise1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "notebook>=7.4.1",
+    "polars>=1.27.1",
+    "matplotlib"
+]
